@@ -49,6 +49,4 @@ Certifique-se de substituir "arquivo.js" pelo nome do arquivo JavaScript que des
 
 - Verifique a documentação do arquivo JavaScript específico para obter informações adicionais sobre como executá-lo corretamente.
 
-## Conclusão
 
-Agora você deve ser capaz de executar um arquivo em JavaScript em seu ambiente local usando o Node.js. Certifique-se de seguir as etapas descritas neste README e ajustá-las conforme necessário para atender às suas necessidades específicas.
